@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jsonschema": "^1.2.7",
+    "mosca": "^2.8.3"
+  }
+}
